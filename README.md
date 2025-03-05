@@ -62,6 +62,3 @@ This is a Streamlit-based application that enables users to interact with an SQL
 ## License
 This project is open-source under the MIT License.
 
-## Author
-Developed by [Your Name]
-
